@@ -16,6 +16,7 @@ public class HelloJava {
        System.out.println(test.A);
        System.out.println(test.B);
        System.out.println(test.str);
+       System.out.println(test.A);
 //            int a;
 //
 //            double b;
